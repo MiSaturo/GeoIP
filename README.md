@@ -11,9 +11,9 @@ This update every day from lastes ip list.
 
 1) Add the rule provider like this:
 
-```
+```yaml
 rule-providers:
-  ...yaml
+  ...
   iran-ip-rules:
     type: http
     behavior: ipcidr
