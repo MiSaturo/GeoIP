@@ -23,7 +23,7 @@ rule-providers:
   ...
 ```
 
-2) Use defined the rule-provider as rul-set in your ruls:
+2) Use defined rule-provider as rul-set in your ruls:
 
 ```yaml
 rules:
